@@ -1,18 +1,21 @@
 # Hi there, I'm Israel Estero Águeda 👋
+**Software Engineer | Web3 | AI & Machine Learning | 42 & UPM**
 
-I am a Software Engineer with a strong foundation in systems programming, algorithmic design, and decentralized applications.
+Software Engineer specializing in decentralized applications, artificial intelligence, and low-level systems programming. Currently building scalable DEX architectures and smart contracts.
 
-### 🚀 About Me
-* **Current Role:** Full-stack Engineer at HEARTBIT, leading the design and implementation of a decentralized exchange (DEX). I specialize in building decentralized apps (dApps) and writing core smart contract logic using Solidity.
-* **Education:** Software Engineering graduate from the Polytechnic University of Madrid and Computer Science graduate from 42 Madrid.
-* **Key Projects:**
-  * **VETTA:** Architected a full-stack system to automatically generate climbing problems using AI and Computer Vision. Deployed a deep learning model via a Flask REST API and developed a native Android application for user interaction.
-  * **System Architecture:** Developed a custom Unix shell (Minishell) and a C++ web server.
-* **Focus:** Applying software engineering principles across the full development lifecycle, prioritizing high-performance systems and seamless user experiences.
+### ⚙️ Core Expertise
+* **Blockchain & Web3:** Solidity, Smart Contracts, dApps, Decentralized Exchanges (DEX).
+* **AI & Data:** Machine Learning, Computer Vision (Mask R-CNN, Detectron2), Deep Learning, Python, Scikit-learn.
+* **Systems Programming:** C/C++, Unix Shells, System Architecture.
+* **Full-Stack Engineering:** React, TypeScript, Node.js, PostgreSQL, Docker, Kubernetes.
 
-### 💻 Tech Stack
-* **Web3 & Frontend:** Solidity, Decentralized Apps (dApps), Smart Contracts, React, HTML, CSS, JavaScript.
-* **Languages:** Python, C/C++, TypeScript, Java, Dart, Bash.
-* **Mobile:** Kotlin, Flutter, Cross-platform Development.
-* **Backend & Data:** PostgreSQL, MySQL, Flask, AI & Machine Learning.
-* **DevOps & Architecture:** Docker, Git, Kubernetes, Linux environments.
+### 💼 Current Work
+* **Full-Stack Engineer @ HEARTBIT:** Designing and implementing a decentralized exchange, writing core smart contract logic, and building real-time data trading dashboards. 
+
+### 🏆 Selected Projects
+* **VETTA (AI/Computer Vision):** Architected a full-stack AI system for automated climbing problem generation using deep learning and a Flask REST API.
+* **Minishell (Systems):** Developed a custom Unix shell in C, demonstrating low-level system and process management.
+
+### 🎓 Education
+* **Software Engineering Degree** - Polytechnic University of Madrid (UPM)
+* **Computer Science** - 42 Madrid
